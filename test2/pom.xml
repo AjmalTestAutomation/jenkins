@@ -57,7 +57,7 @@
            <configuration>
 					<testFailureIgnore> false </testFailureIgnore>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\SeleniumWorkSpace\test2\testng.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 
 					</suiteXmlFiles>
 				</configuration>
